@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brewkva - Магазин кофе</title>
+    <style>
+        /* Ваши стили здесь */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Brewkva - Магазин кофе</h1>
+    </header>
+
+    <section>
+        <h2>Наши сорта кофе</h2>
+        <p>Выберите свой любимый вид кофе и оформите заказ прямо сейчас!</p>
+
+        <!-- Пример блока для сорта кофе -->
+        <div>
+            <img src="coffee1.jpg" alt="Кофе 1">
+            <h3>Кофе "Название 1"</h3>
+            <p>Описание кофе и его характеристики.</p>
+            <p>Цена: $10.99</p>
+            <button>Добавить в корзину</button>
+        </div>
+
+        <!-- Пример блока для другого сорта кофе -->
+        <div>
+            <img src="coffee2.jpg" alt="Кофе 2">
+            <h3>Кофе "Название 2"</h3>
+            <p>Описание кофе и его характеристики.</p>
+            <p>Цена: $12.99</p>
+            <button>Добавить в корзину</button>
+        </div>
+
+        <!-- Продолжайте добавлять блоки для других сортов кофе -->
+
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Brewkva - Магазин кофе</p>
+    </footer>
+
+</body>
+</html>
